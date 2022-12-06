@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A</h3>
 
 - 🔭 I’m currently working on [time series exercises](https://github.com/markydoug/time-series-exercises)
 
