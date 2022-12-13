@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 
-- 🔭 I’m currently working on [time series exercises](https://github.com/markydoug/time-series-exercises)
+- 🔭 I’m currently working on exploring [my apple health data](https://github.com/markydoug/my_apple_health)
 
 - 🌱 I’m currently learning **how to be a better data scientist**
 
