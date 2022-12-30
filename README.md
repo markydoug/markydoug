@@ -19,7 +19,7 @@
 
 <table>
     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=markydoug&show_icons=true&locale=en" alt="markydoug" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=markydoug&" alt="markydoug" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=markydoug&theme=codeSTACKr&show_icons=true" alt="markydoug" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com?user=markydoug&theme=dark&border_radius=4.7&mode=weekly" alt="markydoug" /></td>
   </tr>
 </table>
